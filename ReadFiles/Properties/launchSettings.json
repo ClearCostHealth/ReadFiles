@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Y:\\ShareCare\\Member Payloads\\Sharecare House Account Plan Payload Samples\"\r\n"
+    }
+  }
+}

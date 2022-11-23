@@ -1,0 +1,15 @@
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\bin\Debug\net6.0\ReadFiles.exe
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\bin\Debug\net6.0\ReadFiles.deps.json
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\bin\Debug\net6.0\ReadFiles.runtimeconfig.json
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\bin\Debug\net6.0\ReadFiles.dll
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\bin\Debug\net6.0\ReadFiles.pdb
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.csproj.AssemblyReference.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.AssemblyInfoInputs.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.AssemblyInfo.cs
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.dll
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\refint\ReadFiles.dll
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.pdb
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ReadFiles.genruntimeconfig.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles\obj\Debug\net6.0\ref\ReadFiles.dll

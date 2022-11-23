@@ -1,0 +1,8 @@
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\bin\Debug\ReadFiles2.exe.config
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\bin\Debug\ReadFiles2.exe
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\bin\Debug\ReadFiles2.pdb
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\obj\Debug\ReadFiles2.csproj.AssemblyReference.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\obj\Debug\ReadFiles2.csproj.SuggestedBindingRedirects.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\obj\Debug\ReadFiles2.csproj.CoreCompileInputs.cache
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\obj\Debug\ReadFiles2.exe
+C:\Users\bhart\Documents\GitHub\ReadFiles\ReadFiles2\obj\Debug\ReadFiles2.pdb
